@@ -22,7 +22,7 @@ defmodule HordeTest.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:horde, "0.5.0-rc.11"}
+      {:horde, "0.5.0-rc.12"}
     ]
   end
 end
